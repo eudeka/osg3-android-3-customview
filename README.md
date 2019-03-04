@@ -5,7 +5,6 @@ OSG batch ketiga kali ini bertema tentang pemrograman Android for Industry, dima
 
 ## Sample Code Android CustomView
 Sample Code di OSG3 Android for Industry membahas tentang cara menggunakan CustomView untuk mempermudah dalam membuat tampila UI (User Interface) yang menarik. Sample code ini berisi:
-- Implementasi API dari <a href="https://www.thesportsdb.com/">The Sports Db</a> untuk mengambil data list club secara remote (internet)
 - Implementasi View, ImageView, color, dsb untuk diolah menjadi View yang menarik (CustomView)
 
 ## Cara mendaftar Online Study Group
